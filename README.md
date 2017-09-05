@@ -42,3 +42,5 @@ Enable Z-Endstop pullup in Configuration.h:
 Test:
 
 Better safe than sorry, test carefully and with care. Helpul commands: M119, M48
+
+Thanks to the students at Kamaro Engineering who helped me with the design and improved it!
